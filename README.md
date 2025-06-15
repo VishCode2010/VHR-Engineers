@@ -1,7 +1,7 @@
-WRO Future Engineers Team V^3 Engineering Documentation
+WRO Future Engineers Team VHR-Engineers Documentation
 ====
 
-This repository contains engineering materials of a self-driven vehicle model participating in the WRO Future Engineers competition in the 2023 season. More information on each subcomponent of the robot is placed in the README.md files in each folder.
+This repository contains engineering materials of a self-driven vehicle model participating in the WRO Future Engineers competition in the 2025 season. More information on each subcomponent of the robot is placed in the README.md files in each folder.
 
 ## Content
 * `build` contains documentation about our chassis and material choice
@@ -22,10 +22,12 @@ This repository contains engineering materials of a self-driven vehicle model pa
 
 
 ### Who We Are
-Team V^3 is an aspiring group of high school and university students who aim to be leaders in the future of autonomous vehicles. By taking the initiative to take part in the WRO Future Engineers challenge, we hope to gain experience in this field of engineering and problem-solving. We have been exposed to many robotic and logical challenges through Zebra Robotics, where we participated in many problems, such as WRO Robomissions, FIRST LEGO League, and VEX Robotics Competition. Our goals for this season are the following:
+Team VHR is an aspiring group of young high school students who aim to be leaders in the future of autonomous vehicles. By taking the initiative to take part in the WRO Future Engineers challenge, we hope to gain experience in this field of engineering and problem-solving. We have been exposed to many robotic and logical challenges through Zebra Robotics, where we participated in many competitions, such as WRO Robomissions, FIRST LEGO League, VEX Robotics Competition and Zone1. Our goals for this season are the following:
 - Gain knowledge in the field of autonomous vehicles
+- Advancing our capabilities in autonomous robotics coding
 - Expose ourselves to the nuances of software organization (i.e. Github)
 - Become proficient in the skills regarding electronic components
+- Enhance our mechanical design capabilities
 - Learn how to coordinate and work as a team to solve the problem with innovation and creativity
 
 ### Our Robot & Iterations

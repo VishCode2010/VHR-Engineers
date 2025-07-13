@@ -41,12 +41,8 @@ Prior to making this robot, our team went through various different iterations a
 One of these was a larger robot with the usage of many more sensors and parts. However, its large nature at 30x20x30cm caused it to be difficult to maneuver and control. All of our efforts were in vain as we faced many hardships and problems when trying to program that robot. Our robot’s turning radius was too large, and it was unable to maneuver around the obstacles while our sensors were placed inconveniently and were unable to correctly and quickly construct an efficient path for our robot to take. We realized that many parts of our robot were unnecessary, especially the sheer size of it, and we ultimately decided to do a complete redesign which led to our final robot design. A summary of the reasons for our redesign can be found below:
 ### Electrical Components
 Our chassis is controlled by the ESP32 microcontroller, which gets information from various sensors and uses said information to control the motors using an L298N motor controller board. The sensors that we are using for our vehicle are the following:
-- Pixycam 2.1
-- TCS34725 RGB Sensor
-
-- HW-201 IR Sensors
-- GP2Y0A02YK0F IR Range Sensor
-- L3G4200D 3-Axis Gyro
+- CJVL53LOXUV2 TOF(Time of Flight) Sensor
+- MPU6050 Gyro Sensor
 
 We use the Pixycam 2.1 to identify the locations of the obstacles and effectively avoid them. The TCS34725 RGB sensor tells the microcontroller when it reaches a corner. Both IR sensors are used to detect the walls on the side and on the front. Finally, we use the L3G4200D gyro to know which direction we are facing. More information about our robot’s electrical components can be found in the README file in the electrical folder.
 

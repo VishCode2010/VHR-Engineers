@@ -28,7 +28,7 @@ Team VHR is an aspiring group of young high school students who aim to be leader
 - Expose ourselves to the nuances of software organization (i.e. Github)
 - Become proficient in the skills regarding electronic components
 - Enhance our mechanical design capabilities
-- Learn how to coordinate and work as a team to solve the problem with innovation and creativity
+- Learn how to coordinate and work as a team to solve a problem with innovation and creativity
 
 ### Our Robot & Iterations
 Our team has designed a four-wheel rear-driver autonomous vehicle to complete the 2025 WRO Future Engineers challenge. When making our robot, we wanted to be able to rapidly iterate and make changes whenever they were needed. To accomplish this, our chassis and frame are almost entirely made of LEGO Technic parts and any remaining additions and part adapters (i.e., motor adapters, sensors, etc.) were designed on the Tinker CAD Software and were printed using PLA filament on a Bambu Lab 3D printer. Our current robot is a small, lightweight and compact vehicle causing it to be highly maneuverable, allowing us to avoid obstacles effortlessly. This vehicle is powered by 300rpm 6V Micro Gear Box DC motors, allowing us to keep a compact and lightweight robot. To steer this chassis, we are using the ES08MA Metal Analog Servo, which has an ample amount of torque and strength. This allows us to make sharp turns whenever needed.
